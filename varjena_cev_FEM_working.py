@@ -47,7 +47,7 @@ povecava =      <vrednost povačave prikaza pomikov>
 '''
 simetrija  = 1
 povecava = 1
-prikazi = [0,1,2,3,4,5,6,7]
+prikazi = [0]
 # -----------------------------------------------------------------------------
 
 #Uvoz (definicija) mreže: -----------------------------------------------------
