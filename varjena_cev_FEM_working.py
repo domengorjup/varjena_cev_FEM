@@ -46,7 +46,7 @@ prikazi:        0   ->  primerjalna napetost
 povecava =      <vrednost povačave prikaza pomikov>
 '''
 simetrija  = 1
-povecava = 500
+povecava = 1
 prikazi = [0]
 # -----------------------------------------------------------------------------
 
